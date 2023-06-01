@@ -1,0 +1,7 @@
+Security:
+  700.0 : 12/12/2020 : Social
+Food:
+  100.0 : Tue Dec 12 00:00:00 ICT 2023 : Food
+
+  600.0 : Sun Jan 12 00:00:00 ICT 2020 : Hundred spent
+
